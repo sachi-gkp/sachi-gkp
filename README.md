@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hands-on Go Programming is designed to get you up and running as fast as possible with Go. You will not just learn the basics but get introduced to how to use advanced features of Golang.
 
-<img src=./book.jpeg width=40%>
+<img src=./imgs/book.jpeg width=40%>
 
 
 **You can find this book here:**
